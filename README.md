@@ -91,4 +91,4 @@ The time value should be in *milliseconds since the Unix Epoch*, and OHLC values
 ### Subscribing to widget events
 You can subscribe to many widget events (see line 207 for an example). The full list of available events is available [here](https://www.tradingview.com/charting-library-docs/latest/api/interfaces/Charting_Library.SubscribeEventsMap/).
 
-If you have any questions, feel free to reach out with [mail](mailto:o.nadon@polytech.software) or [telegram](https://t.me/oceolena)! 😊
+If you have any questions, feel free to reach out with [mail](mailto:o.nadon@polytech.software) or [telegram](https://t.me/oceolena)!
