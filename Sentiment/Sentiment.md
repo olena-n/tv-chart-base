@@ -85,6 +85,6 @@ widget.subscribe('study', (study) => {
 
 **6.** We need to recalculate basline level every time user interacts with a chart, so we need to subscribe to events like ```mouse_down```, ```mouse_up```, ```study_properties_changed```, ```undo_redo_state_changed```, ```reset_scales``` and ```study_event``` _(lines 260-292)_.
   
-**7.** We also need to recalculate baseline level position when the ```chart``` changes (line 299).   
+**7.** We also need to recalculate baseline level position when the ```chart``` changes _(line 299)_.   
 
 **8.** Chart with a sentiment is redy :)  
